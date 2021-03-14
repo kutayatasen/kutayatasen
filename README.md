@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kutayatasen&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kutayatasen&show_icons=true&theme=dracula&count_private=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kutayatasen&hide=html&layout=compact&theme=dracula)](https://github.com/ahmedbesbes/github-readme-stats)
